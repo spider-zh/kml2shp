@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark><name>北京点</name><ExtendedData><Data name="kind"><value>test</value></Data></ExtendedData><Point><coordinates>116.4,39.9,50</coordinates></Point></Placemark>
+<Placemark><name>示例线</name><LineString><coordinates>116.0,39.7 116.5,39.8 116.8,40.0</coordinates></LineString></Placemark>
+<Placemark><name>示例面</name><Polygon><outerBoundaryIs><LinearRing><coordinates>116.0,39.0 117.0,39.0 117.0,40.0 116.0,40.0 116.0,39.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+</Document></kml>
